@@ -1,0 +1,204 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+.mainbox {
+    width: 1000px;
+    height: 980px;
+    background-color: white;
+    border: 1px;
+    margin: 20px;
+    text-align: left;
+    
+}
+
+.topbox {
+    width: 1000px;
+    height: 35px;
+    background-color: gray;
+    text-align: left;
+    padding: 5px;
+
+}
+
+h1 {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18pt;
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    color: rgb(200, 13, 13);
+}
+
+h4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    color: black;
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-right: 2px;
+}
+
+h5 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    color: black;
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-right: 2px;
+    font-size: 10pt;
+}
+
+.box1 {
+    width: 50px;
+    height: 30px;
+    color: black;
+}
+
+.indentsection{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 400px;
+}
+
+.boxred{
+    width: 118px;
+    height: 130px;
+    background-color: rgb(200, 13, 13);
+    text-align: left;
+    float: left;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    padding-left: 5px;
+    padding-top: 110px;
+}
+
+.boxblue{
+    width: 118px;
+    height: 130px;
+    background-color: blue;
+    text-align: left;
+    float: left;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
+
+.boxwhite{
+    width: 118px;
+    height: 130px;
+    background-color: white;
+    float: left;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
+
+nav a:link {
+    color: white;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-size: 11pt;
+}
+
+.bottomgreybox {
+    width: 1000px;
+    height: 30px;
+    background-color: gray;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.footerbox{
+    width: 1000px;
+    height: 350px;
+    background-color: rgb(215, 211, 211);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+.bottomwhitetxtbox{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(215, 211, 211);
+    padding-bottom: 200px;
+    float: left;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.bottombluetxtbox{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    padding-bottom: 200px;
+    float: left;
+    margin-top: 70px;
+    margin-right: 30px;
+    float: left;
+}
+
+.bottomgreybox2 {
+    width: 1000px;
+    height: 30px;
+    background-color: gray;
+    text-align: left;
+    
+   
+    
+}
+
+.moreinfobox{
+    width: 130px;
+    height: 30px;
+    background-color: gray;
+    text-align: center;
+    float: left;
+    padding-top: 5px;
+    border: 1px solid black;
+    font-size: medium;
+    margin-top: 10px;
+
+}
+  
+  nav a:link {
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 11pt;
+  }
+  
+  nav a:visited {
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 11pt;
+  }
+  
+  nav a:hover {
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 11pt;
+  }
+
+  span {
+    color: white;
+  }

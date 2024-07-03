@@ -1,0 +1,57 @@
+[
+    {
+      "firstname": "Cole",
+      "lastname": "Caufield",
+      "birthday": "01/02/2001",
+      "jerseynumber": "22",
+      "position": "RW",
+      "goals": "27",
+      "assists": "37"
+    },
+    {
+      "firstname": "Nick",
+      "lastname": "Suzuki",
+      "birthday": "08/10/1999",
+      "jerseynumber": "14",
+      "position": "C",
+      "goals": "33",
+      "assists": "43"
+    },
+    {
+      "firstname": "Juraj",
+      "lastname": "Slafkovsky",
+      "birthday": "03/30/2004",
+      "jerseynumber": "20",
+      "position": "LW",
+      "goals": "19",
+      "assists": "29"
+    },
+    {
+      "firstname": "Mike",
+      "lastname": "Matheson",
+      "birthday": "02/27/1994",
+      "jerseynumber": "8",
+      "position": "RW",
+      "goals": "11",
+      "assists": "51"
+    },
+    {
+      "firstname": "Alex",
+      "lastname": "Newhook",
+      "birthday": "01/28/2001",
+      "jerseynumber": "15",
+      "position": "C",
+      "goals": "14",
+      "assists": "19"
+    },
+    {
+      "firstname": "Brendan",
+      "lastname": "Gallagher",
+      "birthday": "05/06/1992",
+      "jerseynumber": "11",
+      "position": "RW",
+      "goals": "13",
+      "assists": "14"
+    }
+  ]
+  
